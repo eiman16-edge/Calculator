@@ -13,4 +13,5 @@ A simple calculator project built with HTML, CSS, and JavaScript. It lets you en
 - `index.html` — calculator structure
 - `style.css` — layout and styling
 - `script.js` — calculator behavior
-Live demo : 
+  
+Live demo : https://eiman16-edge.github.io/Calculator/
